@@ -664,7 +664,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\joach\\.nuget\\packages\\": {},
+    "C:\\Users\\Joachim\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -673,17 +673,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\MeineDateien_HP\\2.Dev\\2.PrivateProjects\\C#\\CSharp6AndTheNetFrameWork\\C1_001_AssemblyAndManifest\\C1_001_AssemblyAndManifest\\C01_001_AssemblyAndManifest.csproj",
+      "projectUniqueName": "E:\\2.Dev\\2.PrivateProjects\\C#\\CSharp6AndDotNetFramework\\C1_001_AssemblyAndManifest\\C1_001_AssemblyAndManifest\\C01_001_AssemblyAndManifest.csproj",
       "projectName": "C01_001_AssemblyAndManifest",
-      "projectPath": "E:\\MeineDateien_HP\\2.Dev\\2.PrivateProjects\\C#\\CSharp6AndTheNetFrameWork\\C1_001_AssemblyAndManifest\\C1_001_AssemblyAndManifest\\C01_001_AssemblyAndManifest.csproj",
-      "packagesPath": "C:\\Users\\joach\\.nuget\\packages\\",
-      "outputPath": "E:\\MeineDateien_HP\\2.Dev\\2.PrivateProjects\\C#\\CSharp6AndTheNetFrameWork\\C1_001_AssemblyAndManifest\\C1_001_AssemblyAndManifest\\obj\\",
+      "projectPath": "E:\\2.Dev\\2.PrivateProjects\\C#\\CSharp6AndDotNetFramework\\C1_001_AssemblyAndManifest\\C1_001_AssemblyAndManifest\\C01_001_AssemblyAndManifest.csproj",
+      "packagesPath": "C:\\Users\\Joachim\\.nuget\\packages\\",
+      "outputPath": "E:\\2.Dev\\2.PrivateProjects\\C#\\CSharp6AndDotNetFramework\\C1_001_AssemblyAndManifest\\C1_001_AssemblyAndManifest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\joach\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Joachim\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
