@@ -1,24 +1,6 @@
-<<<<<<< HEAD
-E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndTheNetFrameWork\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\obj\Debug\C03_003_BasicDataTypes.csprojResolveAssemblyReference.cache
-E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndTheNetFrameWork\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\obj\Debug\C03_003_BasicDataTypes.csproj.CoreCompileInputs.cache
-E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndTheNetFrameWork\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\bin\Debug\C03_003_BasicDataTypes.exe.config
-E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndTheNetFrameWork\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\bin\Debug\C03_003_BasicDataTypes.exe
-E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndTheNetFrameWork\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\bin\Debug\C03_003_BasicDataTypes.pdb
-E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndTheNetFrameWork\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\obj\Debug\C03_003_BasicDataTypes.exe
-E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndTheNetFrameWork\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\obj\Debug\C03_003_BasicDataTypes.pdb
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\bin\Debug\C03_003_BasicDataTypes.exe.config
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\bin\Debug\C03_003_BasicDataTypes.exe
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\bin\Debug\C03_003_BasicDataTypes.pdb
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\obj\Debug\C03_003_BasicDataTypes.csprojResolveAssemblyReference.cache
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\obj\Debug\C03_003_BasicDataTypes.csproj.CoreCompileInputs.cache
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\obj\Debug\C03_003_BasicDataTypes.exe
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\obj\Debug\C03_003_BasicDataTypes.pdb
-=======
->>>>>>> 53ee4ce9b5556c08e05d0b030a6de2f728903690
-E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\obj\Debug\C03_003_BasicDataTypes.csprojResolveAssemblyReference.cache
-E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\obj\Debug\C03_003_BasicDataTypes.csproj.CoreCompileInputs.cache
-E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\obj\Debug\C03_003_BasicDataTypes.exe
-E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\obj\Debug\C03_003_BasicDataTypes.pdb
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\bin\Debug\C03_003_BasicDataTypes.exe.config
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\bin\Debug\C03_003_BasicDataTypes.exe
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\bin\Debug\C03_003_BasicDataTypes.pdb
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\obj\Debug\C03_003_BasicDataTypes.csproj.CoreCompileInputs.cache
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\obj\Debug\C03_003_BasicDataTypes.exe
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_003_BasicDataTypes\obj\Debug\C03_003_BasicDataTypes.pdb
