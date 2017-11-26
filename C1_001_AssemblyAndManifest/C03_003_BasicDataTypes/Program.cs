@@ -33,6 +33,7 @@ namespace C03_003_BasicDataTypes
 
             Console.WriteLine($"Your Data: {myInt}, {myString}, {b1}, {b2}, {b3}, {b4}");
             Console.WriteLine();
+<<<<<<< HEAD
 
             NewingDataTypes();
             Console.WriteLine();
@@ -62,6 +63,8 @@ namespace C03_003_BasicDataTypes
             Console.WriteLine("12.ToString() = {0}", 12.ToString());
             Console.WriteLine("12.GetType() = {0}", 12.GetType());
             Console.WriteLine();
+=======
+>>>>>>> 53ee4ce9b5556c08e05d0b030a6de2f728903690
         }
     }
 
