@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C03_001_SimpleCSharpApp", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C03_002_BasicConsoleIO", "BasicConsoleIO\C03_002_BasicConsoleIO.csproj", "{C8D0271A-9A99-48C2-A5C7-2E3A3C64DD15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C03_003_BasicDataTypes", "C03_003_BasicDataTypes\C03_003_BasicDataTypes.csproj", "{2BF814D1-31A5-492E-B1E7-29F1CAD3520C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C8D0271A-9A99-48C2-A5C7-2E3A3C64DD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8D0271A-9A99-48C2-A5C7-2E3A3C64DD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8D0271A-9A99-48C2-A5C7-2E3A3C64DD15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF814D1-31A5-492E-B1E7-29F1CAD3520C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF814D1-31A5-492E-B1E7-29F1CAD3520C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF814D1-31A5-492E-B1E7-29F1CAD3520C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF814D1-31A5-492E-B1E7-29F1CAD3520C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
