@@ -1,7 +1,7 @@
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\BasicConsoleIO\obj\Debug\C03_002_BasicConsoleIO.csproj.CoreCompileInputs.cache
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe.config
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\BasicConsoleIO\bin\Debug\BasicConsoleIO.pdb
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\BasicConsoleIO\obj\Debug\C03_002_BasicConsoleIO.csprojResolveAssemblyReference.cache
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\BasicConsoleIO\obj\Debug\C03_002_BasicConsoleIO.csproj.CoreCompileInputs.cache
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\BasicConsoleIO\obj\Debug\BasicConsoleIO.exe
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\BasicConsoleIO\obj\Debug\BasicConsoleIO.pdb
