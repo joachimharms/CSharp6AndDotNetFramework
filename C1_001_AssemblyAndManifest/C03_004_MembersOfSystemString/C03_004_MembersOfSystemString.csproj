@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2BF814D1-31A5-492E-B1E7-29F1CAD3520C}</ProjectGuid>
+    <ProjectGuid>{92AD6D10-E210-4F86-9905-0CDAECB4EC3D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>C03_003_BasicDataTypes</RootNamespace>
-    <AssemblyName>C03_003_BasicDataTypes</AssemblyName>
+    <RootNamespace>C03_004_MembersOfSystemString</RootNamespace>
+    <AssemblyName>C03_004_MembersOfSystemString</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -34,7 +34,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />

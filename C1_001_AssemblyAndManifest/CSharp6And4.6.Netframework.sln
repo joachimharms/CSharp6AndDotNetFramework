@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C03_002_BasicConsoleIO", "B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C03_003_BasicDataTypes", "C03_003_BasicDataTypes\C03_003_BasicDataTypes.csproj", "{2BF814D1-31A5-492E-B1E7-29F1CAD3520C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C03_004_MembersOfSystemString", "C03_004_MembersOfSystemString\C03_004_MembersOfSystemString.csproj", "{92AD6D10-E210-4F86-9905-0CDAECB4EC3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2BF814D1-31A5-492E-B1E7-29F1CAD3520C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BF814D1-31A5-492E-B1E7-29F1CAD3520C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BF814D1-31A5-492E-B1E7-29F1CAD3520C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92AD6D10-E210-4F86-9905-0CDAECB4EC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92AD6D10-E210-4F86-9905-0CDAECB4EC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92AD6D10-E210-4F86-9905-0CDAECB4EC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92AD6D10-E210-4F86-9905-0CDAECB4EC3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
