@@ -4,3 +4,10 @@ E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_A
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_004_MembersOfSystemString\obj\Debug\C03_004_MembersOfSystemString.csproj.CoreCompileInputs.cache
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_004_MembersOfSystemString\obj\Debug\C03_004_MembersOfSystemString.exe
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_004_MembersOfSystemString\obj\Debug\C03_004_MembersOfSystemString.pdb
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_004_MembersOfSystemString\bin\Debug\C03_004_MembersOfSystemString.exe.config
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_004_MembersOfSystemString\bin\Debug\C03_004_MembersOfSystemString.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_004_MembersOfSystemString\bin\Debug\C03_004_MembersOfSystemString.pdb
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_004_MembersOfSystemString\obj\Debug\C03_004_MembersOfSystemString.csprojResolveAssemblyReference.cache
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_004_MembersOfSystemString\obj\Debug\C03_004_MembersOfSystemString.csproj.CoreCompileInputs.cache
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_004_MembersOfSystemString\obj\Debug\C03_004_MembersOfSystemString.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_004_MembersOfSystemString\obj\Debug\C03_004_MembersOfSystemString.pdb
