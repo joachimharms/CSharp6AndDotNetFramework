@@ -13,6 +13,8 @@ namespace C03_004_MembersOfSystemString
             BasicStringFunctionality();
             StringConcatenation();
             EscapeChars();
+            VerbatimStrings();
+            StringEquality();
 
             JoachimStringFunctionality();
         }
@@ -44,8 +46,7 @@ namespace C03_004_MembersOfSystemString
             Console.WriteLine(myString.PadLeft(15, '0'));
 
             Console.WriteLine(myString.Remove(5, 5));
-
-
+            Console.WriteLine();
         }
 
         static void StringConcatenation()
@@ -68,7 +69,42 @@ namespace C03_004_MembersOfSystemString
             // Adds a total of 4 blank lines (then beep again!).
             Console.WriteLine("All finished.\n\n\n\a ");
             Console.WriteLine();
+        }
 
+        static void VerbatimStrings()
+        {
+            // The following string is printed verbatim,
+            // thus all escape characters are displayed.
+            Console.WriteLine(@"C:\MyApp\bin\Debug");
+
+            // White space is preserved with verbatim strings.
+            string myLongString = @"This is a very
+                very
+                        very
+                                long string";
+            Console.WriteLine(myLongString);
+
+            // Wörtliche Rede
+            Console.WriteLine(@"Cerebus said ""Darrr! Pret-ty sun-sets""");
+            Console.WriteLine();
+        }
+
+        static void StringEquality()
+        {
+            Console.WriteLine("=> String equality:");
+            string s1 = "Hello!";
+            string s2 = "Yo!";
+            Console.WriteLine("s1 = {0}", s1);
+            Console.WriteLine("s2 = {0}", s2);
+            Console.WriteLine();
+            // Test these strings for equality.
+            Console.WriteLine("s1 == s2: {0}", s1 == s2);
+            Console.WriteLine("s1 == Hello!: {0}", s1 == "Hello!");
+            Console.WriteLine("s1 == HELLO!: {0}", s1 == "HELLO!");
+            Console.WriteLine("s1 == hello!: {0}", s1 == "hello!");
+            Console.WriteLine("s1.Equals(s2): {0}", s1.Equals(s2));
+            Console.WriteLine("Yo.Equals(s2): {0}", "Yo!".Equals(s2));
+            Console.WriteLine();
         }
     }
 }
