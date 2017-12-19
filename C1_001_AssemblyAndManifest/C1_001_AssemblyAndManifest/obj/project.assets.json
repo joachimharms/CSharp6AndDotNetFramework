@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\2.Dev\\2.PrivateProjects\\C#\\CSharp6AndDotNetFramework\\C1_001_AssemblyAndManifest\\C1_001_AssemblyAndManifest\\C01_001_AssemblyAndManifest.csproj",
+      "projectUniqueName": "E:\\2.Dev\\2.PrivateProjects\\C#\\Neuer Ordner\\CSharp6AndDotNetFramework\\C1_001_AssemblyAndManifest\\C1_001_AssemblyAndManifest\\C01_001_AssemblyAndManifest.csproj",
       "projectName": "C01_001_AssemblyAndManifest",
-      "projectPath": "E:\\2.Dev\\2.PrivateProjects\\C#\\CSharp6AndDotNetFramework\\C1_001_AssemblyAndManifest\\C1_001_AssemblyAndManifest\\C01_001_AssemblyAndManifest.csproj",
+      "projectPath": "E:\\2.Dev\\2.PrivateProjects\\C#\\Neuer Ordner\\CSharp6AndDotNetFramework\\C1_001_AssemblyAndManifest\\C1_001_AssemblyAndManifest\\C01_001_AssemblyAndManifest.csproj",
       "packagesPath": "C:\\Users\\Joachim\\.nuget\\packages\\",
-      "outputPath": "E:\\2.Dev\\2.PrivateProjects\\C#\\CSharp6AndDotNetFramework\\C1_001_AssemblyAndManifest\\C1_001_AssemblyAndManifest\\obj\\",
+      "outputPath": "E:\\2.Dev\\2.PrivateProjects\\C#\\Neuer Ordner\\CSharp6AndDotNetFramework\\C1_001_AssemblyAndManifest\\C1_001_AssemblyAndManifest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
