@@ -49,8 +49,6 @@ namespace C03_004_MembersOfSystemString
 
         }
 
-
-
         static void BasicStringFunctionality()
         {
             Console.WriteLine("=> Basic String functionality:");
@@ -121,8 +119,6 @@ namespace C03_004_MembersOfSystemString
             Console.WriteLine();
         }
 
-
-
         static void StringEquality()
         {
             Console.WriteLine("=> String equality:");
@@ -179,8 +175,6 @@ namespace C03_004_MembersOfSystemString
 
             Console.WriteLine("=> Using the StringBuilder:");
             StringBuilder sb = new StringBuilder("****Fantastic Games****", 256);
-
-
         }
     }
 }
