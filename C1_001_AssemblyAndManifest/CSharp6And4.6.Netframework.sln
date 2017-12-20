@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C03_007_IterationConstructs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C03_008_DecisionConstructs", "C03_008_DecisionConstructs\C03_008_DecisionConstructs.csproj", "{9C88A8ED-44F1-456E-8E3F-B94FB84195C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C04_001_MethodsAndParameterModifiers", "C04_001_MethodsAndParameterModifiers\C04_001_MethodsAndParameterModifiers.csproj", "{8E152955-0A80-4D2C-9811-0272E619A9A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{9C88A8ED-44F1-456E-8E3F-B94FB84195C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C88A8ED-44F1-456E-8E3F-B94FB84195C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C88A8ED-44F1-456E-8E3F-B94FB84195C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E152955-0A80-4D2C-9811-0272E619A9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E152955-0A80-4D2C-9811-0272E619A9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E152955-0A80-4D2C-9811-0272E619A9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E152955-0A80-4D2C-9811-0272E619A9A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
