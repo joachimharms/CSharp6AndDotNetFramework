@@ -13,6 +13,9 @@ namespace C04_003_FunWithArrays
             Console.WriteLine("***** Fun with Arrays *****");
             SimpleArrays();
             Console.ReadLine();
+            Console.WriteLine();
+
+            ArrayInitialization();
         }
 
         static void SimpleArrays()
@@ -22,6 +25,22 @@ namespace C04_003_FunWithArrays
             int[] myInts = new int[3];
             // Create a 100 item string array, indexed 0 - 99
             string[] booksOnDotNet = new string[100];
+            Console.WriteLine();
+        }
+
+        static void ArrayInitialization()
+        {
+            Console.WriteLine("=> Array Initialization.");
+            // Array initialization syntax using the new keyword.
+            string[] stringArray = new string[]
+                                       { "one", "two", "three" };
+            Console.WriteLine("stringArray has {0} elements", stringArray.Length);
+            // Array initialization syntax without using the new keyword.
+            bool[] boolArray = { false, false, true };
+            Console.WriteLine("boolArray has {0} elements", boolArray.Length);
+            // Array initialization with new keyword and size.
+            int[] intArray = new int[4] { 20, 22, 23, 0 };
+            Console.WriteLine("intArray has {0} elements", intArray.Length);
             Console.WriteLine();
         }
     }

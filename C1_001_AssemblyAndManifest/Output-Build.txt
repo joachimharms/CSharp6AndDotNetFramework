@@ -1,0 +1,5 @@
+﻿Restoring NuGet packages...
+To prevent NuGet from restoring packages during build, open the Visual Studio Options dialog, click on the Package Manager node and uncheck 'Allow NuGet to download missing packages during build.'
+1>------ Build started: Project: C04_003_FunWithArrays, Configuration: Debug Any CPU ------
+1>  C04_003_FunWithArrays -> E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_003_FunWithArrays\bin\Debug\C04_003_FunWithArrays.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
