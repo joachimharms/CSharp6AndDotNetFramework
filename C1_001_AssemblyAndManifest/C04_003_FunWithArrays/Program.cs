@@ -15,7 +15,13 @@ namespace C04_003_FunWithArrays
             Console.ReadLine();
             Console.WriteLine();
 
+            Console.WriteLine("Array Intialisierung mittels Array-Initialisierungssyntax");
             ArrayInitialization();
+            Console.WriteLine();
+
+            Console.WriteLine("Implizite typisierte Arrayinitialisierung:");
+            DeclareImplicitArrays();
+            Console.WriteLine();
         }
 
         static void SimpleArrays()
@@ -41,6 +47,21 @@ namespace C04_003_FunWithArrays
             // Array initialization with new keyword and size.
             int[] intArray = new int[4] { 20, 22, 23, 0 };
             Console.WriteLine("intArray has {0} elements", intArray.Length);
+            Console.WriteLine();
+        }
+
+        static void DeclareImplicitArrays()
+        {
+            Console.WriteLine("=> Implicit Array Initialization.");
+            // a is really int[].
+            var a = new[] { 1, 10, 100, 1000 };
+            Console.WriteLine("a is a: {0}", a.ToString());
+            // b is really double[].
+            var b = new[] { 1, 1.5, 2, 2.5 };
+            Console.WriteLine("b is a: {0}", b.ToString());
+            // c is really string[].
+            var c = new[] { "hello", null, "world" };
+            Console.WriteLine("c is a: {0}", c.ToString());
             Console.WriteLine();
         }
     }

@@ -5,3 +5,10 @@ E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManife
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_003_FunWithArrays\obj\Debug\C04_003_FunWithArrays.csproj.CoreCompileInputs.cache
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_003_FunWithArrays\obj\Debug\C04_003_FunWithArrays.exe
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_003_FunWithArrays\obj\Debug\C04_003_FunWithArrays.pdb
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_003_FunWithArrays\bin\Debug\C04_003_FunWithArrays.exe.config
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_003_FunWithArrays\bin\Debug\C04_003_FunWithArrays.exe
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_003_FunWithArrays\bin\Debug\C04_003_FunWithArrays.pdb
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_003_FunWithArrays\obj\Debug\C04_003_FunWithArrays.csprojResolveAssemblyReference.cache
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_003_FunWithArrays\obj\Debug\C04_003_FunWithArrays.csproj.CoreCompileInputs.cache
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_003_FunWithArrays\obj\Debug\C04_003_FunWithArrays.exe
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_003_FunWithArrays\obj\Debug\C04_003_FunWithArrays.pdb
