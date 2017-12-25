@@ -29,6 +29,19 @@ namespace C04_003_FunWithArrays
 
             Console.WriteLine("Rechtwinkliges Array:");
             RectMultidimensionalArray();
+            Console.WriteLine();
+
+            Console.WriteLine("Gezackte Arrays");
+            JaggedMultidimensionalArray();
+            Console.WriteLine();
+
+            Console.WriteLine("Methode ruft weitere Methoden auf um Arrays entgegen zu nehmen und zurück zu geben");
+            PassAndReceiveArrays();
+            Console.WriteLine();
+
+            Console.WriteLine("Funktionalität der System.Array Klasse:");
+            SystemArrayFunctionality();
+            Console.WriteLine();
         }
 
         static void SimpleArrays()
@@ -108,5 +121,84 @@ namespace C04_003_FunWithArrays
             }
             Console.WriteLine();
         }
+
+        static void JaggedMultidimensionalArray()
+        {
+            Console.WriteLine("=> Jagged multidimensional array.");
+            // A jagged MD array (i.e., an array of arrays).
+            // Here we have an array of 5 different arrays.
+            int[][] myJagArray = new int[5][];
+            // Create the jagged array.
+            for (int i = 0; i < myJagArray.Length; i++)
+                myJagArray[i] = new int[i + 7];
+            // Print each row (remember, each element is defaulted to zero!).
+            for (int i = 0; i < 5; i++)
+            {
+                for (int j = 0; j < myJagArray[i].Length; j++)
+                    Console.Write(myJagArray[i][j] + " ");
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+        }
+
+        static void PrintArray(int[] myInts)
+        {
+            for (int i = 0; i < myInts.Length; i++)
+                Console.WriteLine("Item {0} is {1}", i, myInts[i]);
+        }
+        static string[] GetStringArray()
+        {
+            string[] theStrings = { "Hello", "from", "GetStringArray" };
+            return theStrings;
+        }
+
+        static void PassAndReceiveArrays()
+        {
+            Console.WriteLine("=> Arrays as params and return values.");
+            // Pass array as parameter.
+            int[] ages = { 20, 22, 23, 0 };
+            PrintArray(ages);
+            // Get array as return value.
+            string[] strs = GetStringArray();
+            foreach (string s in strs)
+                Console.WriteLine(s);
+            Console.WriteLine();
+        }
+
+        static void SystemArrayFunctionality()
+        {
+            Console.WriteLine("=> Working with System.Array.");
+            // Initialize items at startup.
+            string[] gothicBands = { "Tones on Tail", "Bauhaus", "Sisters of Mercy" };
+            // Print out names in declared order.
+            Console.WriteLine("-> Here is the array:");
+            for (int i = 0; i < gothicBands.Length; i++)
+            {
+                // Print a name.
+                Console.Write(gothicBands[i] + ", ");
+            }
+            Console.WriteLine("\n");
+            // Reverse them...
+            Array.Reverse(gothicBands);
+            Console.WriteLine("-> The reversed array");
+
+            // ... and print them.
+            for (int i = 0; i < gothicBands.Length; i++)
+            {
+                // Print a name.
+                Console.Write(gothicBands[i] + ", ");
+            }
+            Console.WriteLine("\n");
+            // Clear out all but the first member.
+            Console.WriteLine("-> Cleared out all but one...");
+            Array.Clear(gothicBands, 1, 2);
+            for (int i = 0; i < gothicBands.Length; i++)
+            {
+                // Print a name.
+                Console.Write(gothicBands[i] + ", ");
+            }
+            Console.WriteLine();
+        }
+
     }
 }
