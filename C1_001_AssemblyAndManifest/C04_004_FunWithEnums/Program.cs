@@ -51,7 +51,46 @@ namespace C04_004_FunWithEnums
             EmpType emp = EmpType.Contractor;
             AskForBonus(emp);
             Console.ReadLine();
+
+            Console.WriteLine();
+            Console.WriteLine("**** Fun with underlying Types of Enums*****");
+            // Make a contractor type.
+            EmpType emp2 = EmpType.Contractor;
+            AskForBonus(emp2);
+            // Print storage for the enum.
+            Console.WriteLine("EmpType uses a {0} for storage", Enum.GetUnderlyingType(emp2.GetType()));
+            Console.ReadLine();
+            Console.WriteLine();
+
+            // This time use typeof to extract a Type.
+            Console.WriteLine("EmpType uses a {0} for storage", Enum.GetUnderlyingType(typeof(EmpType)));
+            Console.WriteLine();
+
+            Console.WriteLine("**** Fun with ToString Method *****");
+            EmpType emp3 = EmpType.Contractor;
+            AskForBonus(emp3);
+            // Prints out "emp is a Contractor".
+            Console.WriteLine("emp3 is a {0}.", emp3.ToString());
+            Console.ReadLine();
+
+            Console.WriteLine("**** Fun mit Enum Werte - Konsolenausgabe *****");
+            EmpType emp4 = EmpType.Contractor;
+            // Prints out "Contractor = 100".
+            Console.WriteLine("{0} = {1}", emp4.ToString(), (byte)emp4);
+            Console.ReadLine();
+            Console.WriteLine();
+
+            Console.WriteLine("**** Fun with Enums *****");
+            EmpType e2 = EmpType.Contractor;
+            // These types are enums in the System namespace.
+            DayOfWeek day = DayOfWeek.Monday;
+            ConsoleColor cc = ConsoleColor.Gray;
+            EvaluateEnum(e2);
+            EvaluateEnum(day);
+            EvaluateEnum(cc);
+            Console.ReadLine();
         }
+
 
         // Enums as parameters.
         static void AskForBonus(EmpType e)
@@ -71,6 +110,25 @@ namespace C04_004_FunWithEnums
                     Console.WriteLine("VERY GOOD, Sir!");
                     break;
             }
+        }
+
+        // This method will print out the details of any enum.
+        static void EvaluateEnum(System.Enum e)
+        {
+            Console.WriteLine("=> Information about {0}", e.GetType().Name);
+            Console.WriteLine("Underlying storage type: {0}",
+                Enum.GetUnderlyingType(e.GetType()));
+            // Get all name/value pairs for incoming parameter.
+            Array enumData = Enum.GetValues(e.GetType());
+            Console.WriteLine("This enum has {0} members.", enumData.Length);
+            // Now show the string name and associated value, using the D format
+            // flag (see Chapter 3).
+            for (int i = 0; i < enumData.Length; i++)
+            {
+                Console.WriteLine("Name: {0}, Value: {0:D}",
+                    enumData.GetValue(i));
+            }
+            Console.WriteLine();
         }
     }
 }

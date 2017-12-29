@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C04_003_FunWithArrays", "C0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C04_004_FunWithEnums", "C04_004_FunWithEnums\C04_004_FunWithEnums.csproj", "{B4AEB7BE-9089-4D4C-A715-89BC12A7CB4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C04_005_FunWithStructures", "C04_005_FunWithStructures\C04_005_FunWithStructures.csproj", "{2DA11C30-8117-4383-A6AF-5AFB1E2D9491}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{B4AEB7BE-9089-4D4C-A715-89BC12A7CB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4AEB7BE-9089-4D4C-A715-89BC12A7CB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4AEB7BE-9089-4D4C-A715-89BC12A7CB4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA11C30-8117-4383-A6AF-5AFB1E2D9491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA11C30-8117-4383-A6AF-5AFB1E2D9491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA11C30-8117-4383-A6AF-5AFB1E2D9491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA11C30-8117-4383-A6AF-5AFB1E2D9491}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
