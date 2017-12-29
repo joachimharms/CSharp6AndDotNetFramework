@@ -20,6 +20,33 @@ namespace C04_005_FunWithStructures
             myPoint.Increment();
             myPoint.Display();
             Console.ReadLine();
+
+            // Error! Did not assign Y value.
+            Point p1;
+            p1.X = 10;
+            ////Folgende Methode kann nicht aufgerufen werden, da p1.Y noch nicht initialisiert wurde:
+            //p1.Display(); 
+
+            // OK! Both fields assigned before use.
+            Point p2;
+            p2.X = 10;
+            p2.Y = 10;
+            p2.Display();
+            Console.WriteLine();
+
+            Console.WriteLine("Alle Felder werden auf default Werte gesetzt durch Aufruf default Konstruktor:");
+            // Set all fields to default values
+            // using the default constructor.
+            Point p3 = new Point();
+            // Prints X=0,Y=0.
+            p3.Display();
+            Console.WriteLine();
+
+            Console.WriteLine("Aufruf eines custom parameterisierten Konstruktors: ");
+            // Call custom constructor.
+            Point p4 = new Point(50, 60);
+            // Prints X=50,Y=60.
+            p4.Display();
         }
 
         struct Point
@@ -41,6 +68,14 @@ namespace C04_005_FunWithStructures
             public void Display()
             {
                 Console.WriteLine("X = {0}, Y = {1}", X, Y);
+            }
+
+
+            // A custom constructor.
+            public Point(int XPos, int YPos)
+            {
+                X = XPos;
+                Y = YPos;
             }
         }
     }
