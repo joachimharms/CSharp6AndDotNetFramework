@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C04_004_FunWithEnums", "C04
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C04_005_FunWithStructures", "C04_005_FunWithStructures\C04_005_FunWithStructures.csproj", "{2DA11C30-8117-4383-A6AF-5AFB1E2D9491}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C04_006_ValueAndReferenceTypes", "C04_006_ValueAndReferenceTypes\C04_006_ValueAndReferenceTypes.csproj", "{64875385-B3C6-4662-9ABA-CC0A5A943218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C04_007_RefTypesValTypesParams", "C04_007_RefTypesValTypesParams\C04_007_RefTypesValTypesParams.csproj", "{47370576-7F95-4300-BA47-CB150B022AD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{2DA11C30-8117-4383-A6AF-5AFB1E2D9491}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DA11C30-8117-4383-A6AF-5AFB1E2D9491}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DA11C30-8117-4383-A6AF-5AFB1E2D9491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64875385-B3C6-4662-9ABA-CC0A5A943218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64875385-B3C6-4662-9ABA-CC0A5A943218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64875385-B3C6-4662-9ABA-CC0A5A943218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64875385-B3C6-4662-9ABA-CC0A5A943218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47370576-7F95-4300-BA47-CB150B022AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47370576-7F95-4300-BA47-CB150B022AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47370576-7F95-4300-BA47-CB150B022AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47370576-7F95-4300-BA47-CB150B022AD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
