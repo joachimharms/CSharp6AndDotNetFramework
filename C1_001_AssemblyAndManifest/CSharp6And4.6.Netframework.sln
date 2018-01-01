@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C04_007_RefTypesValTypesPar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C04_008_NullableTypes", "C04_008_NullableTypes\C04_008_NullableTypes.csproj", "{FD4E16D3-7286-4C2E-9F61-09656F1E3C53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C05_001_SimpleClassExample", "C05_001_SimpleClassExample\C05_001_SimpleClassExample.csproj", "{F4269DD4-DBEA-41A8-9EE2-140F96AD906E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{FD4E16D3-7286-4C2E-9F61-09656F1E3C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD4E16D3-7286-4C2E-9F61-09656F1E3C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD4E16D3-7286-4C2E-9F61-09656F1E3C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4269DD4-DBEA-41A8-9EE2-140F96AD906E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4269DD4-DBEA-41A8-9EE2-140F96AD906E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4269DD4-DBEA-41A8-9EE2-140F96AD906E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4269DD4-DBEA-41A8-9EE2-140F96AD906E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
