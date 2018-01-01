@@ -25,5 +25,16 @@ namespace C05_001_SimpleClassExample
         {
             driverIntensity = intensity;
         }
+
+        // New members to represent the name of the driver.
+        public string name;
+        public void SetDriverName(string name)
+        {
+            // name = name;
+
+            // Verwendung von this löst die obige Mehrdeutigkeit von Parameter und Datenfeld auf:
+            this.name = name;
+
+        }
     }
 }

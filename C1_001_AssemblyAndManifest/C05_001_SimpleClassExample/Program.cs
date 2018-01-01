@@ -47,6 +47,14 @@ namespace C05_001_SimpleClassExample
 
             var mc2 = new Motorcycle(5);
             mc2.PopAWheely();
+            Console.WriteLine();
+
+            // Make a Motorcycle with a rider named Tiny?
+            Console.WriteLine("Mehrdeutigkeit bei Übergabe der Argumente der Methode \naufgrund fehlendes this in der Methodendeklaration");
+            Motorcycle c = new Motorcycle(5);
+            c.SetDriverName("Tiny");
+            c.PopAWheely();
+            Console.WriteLine("Rider name is {0}", c.name); // Prints an empty name value!
         }
     }
 }
