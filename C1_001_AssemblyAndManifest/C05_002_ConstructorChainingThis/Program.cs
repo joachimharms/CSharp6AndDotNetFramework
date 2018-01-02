@@ -10,6 +10,15 @@ namespace C05_002_ConstructorChainingThis
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("***** Fun with class Types *****\n");
+            // Make a Motorcycle.
+            Motorcycle c = new Motorcycle(5);
+            c.SetDriverName("Tiny");
+            c.PopAWheely();
+            Console.WriteLine("Rider name is {0}", c.driverName);
+            Console.ReadLine();
+
+            Motorcycle.MakeSomeBikes();
         }
     }
 }
