@@ -1,4 +1,5 @@
-﻿namespace C05_003_StaticDataAndMembers
+﻿using System;
+namespace C05_003_StaticDataAndMembers
 {
     public class SavingsAccount
     {
@@ -17,8 +18,15 @@
         // the static currInterestRate value.
         public SavingsAccount(double balance)
         {
-            currInterestRate = 0.04; // This is static data!
+            //currInterestRate = 0.04; // This is static data!
             currBalance = balance;
+        }
+
+        // A static constructor!
+        static SavingsAccount()
+        {
+            Console.WriteLine("In static ctor!");
+            currInterestRate = 0.04;
         }
 
         // Static members to get/set interest rate.
