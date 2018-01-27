@@ -6,10 +6,27 @@ using System.Threading.Tasks;
 
 namespace C06_001_BasicInheritance
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
+            Console.WriteLine("***** Basic Inheritance *****\n");
+
+            // Make a Car object and set max speed.
+            var myCar = new Car(80);
+
+            // Set the current speed, and print it.
+            myCar.Speed = 50;
+            Console.WriteLine("My car is going {0} MPH", myCar.Speed);
+            Console.ReadLine();
+
+            Console.WriteLine("MiniVan erbt von Car seine public member: ");
+            // Now make a MiniVan object.
+            MiniVan myVan = new MiniVan();
+            myVan.Speed = 10;
+            Console.WriteLine("My van is going {0} MPH",
+                myVan.Speed);
+            Console.ReadLine();
         }
     }
 }
