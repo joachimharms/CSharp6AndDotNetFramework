@@ -5,3 +5,9 @@ E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_A
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_004_FunWithEnums\obj\Debug\C04_004_FunWithEnums.csproj.CoreCompileInputs.cache
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_004_FunWithEnums\obj\Debug\C04_004_FunWithEnums.exe
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_004_FunWithEnums\obj\Debug\C04_004_FunWithEnums.pdb
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_004_FunWithEnums\bin\Debug\C04_004_FunWithEnums.exe.config
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_004_FunWithEnums\bin\Debug\C04_004_FunWithEnums.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_004_FunWithEnums\bin\Debug\C04_004_FunWithEnums.pdb
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_004_FunWithEnums\obj\Debug\C04_004_FunWithEnums.csproj.CoreCompileInputs.cache
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_004_FunWithEnums\obj\Debug\C04_004_FunWithEnums.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_004_FunWithEnums\obj\Debug\C04_004_FunWithEnums.pdb

@@ -11,3 +11,10 @@ E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_A
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_001_SimpleCSharpApp\obj\Debug\C03_001_SimpleCSharpApp.csproj.CoreCompileInputs.cache
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_001_SimpleCSharpApp\obj\Debug\C03_001_SimpleCSharpApp.exe
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_001_SimpleCSharpApp\obj\Debug\C03_001_SimpleCSharpApp.pdb
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_001_SimpleCSharpApp\bin\Debug\C03_001_SimpleCSharpApp.exe.config
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_001_SimpleCSharpApp\bin\Debug\C03_001_SimpleCSharpApp.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_001_SimpleCSharpApp\bin\Debug\C03_001_SimpleCSharpApp.pdb
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_001_SimpleCSharpApp\obj\Debug\C03_001_SimpleCSharpApp.csprojResolveAssemblyReference.cache
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_001_SimpleCSharpApp\obj\Debug\C03_001_SimpleCSharpApp.csproj.CoreCompileInputs.cache
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_001_SimpleCSharpApp\obj\Debug\C03_001_SimpleCSharpApp.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_001_SimpleCSharpApp\obj\Debug\C03_001_SimpleCSharpApp.pdb

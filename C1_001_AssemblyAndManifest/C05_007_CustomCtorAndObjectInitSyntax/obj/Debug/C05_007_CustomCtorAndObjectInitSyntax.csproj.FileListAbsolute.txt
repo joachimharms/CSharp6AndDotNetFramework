@@ -1,0 +1,6 @@
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_007_CustomCtorAndObjectInitSyntax\bin\Debug\C05_007_CustomCtorAndObjectInitSyntax.exe.config
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_007_CustomCtorAndObjectInitSyntax\bin\Debug\C05_007_CustomCtorAndObjectInitSyntax.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_007_CustomCtorAndObjectInitSyntax\bin\Debug\C05_007_CustomCtorAndObjectInitSyntax.pdb
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_007_CustomCtorAndObjectInitSyntax\obj\Debug\C05_007_CustomCtorAndObjectInitSyntax.csproj.CoreCompileInputs.cache
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_007_CustomCtorAndObjectInitSyntax\obj\Debug\C05_007_CustomCtorAndObjectInitSyntax.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_007_CustomCtorAndObjectInitSyntax\obj\Debug\C05_007_CustomCtorAndObjectInitSyntax.pdb
