@@ -5,10 +5,3 @@ E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_A
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_008_DecisionConstructs\obj\Debug\C03_008_DecisionConstructs.csproj.CoreCompileInputs.cache
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_008_DecisionConstructs\obj\Debug\C03_008_DecisionConstructs.exe
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_008_DecisionConstructs\obj\Debug\C03_008_DecisionConstructs.pdb
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_008_DecisionConstructs\bin\Debug\C03_008_DecisionConstructs.exe.config
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_008_DecisionConstructs\bin\Debug\C03_008_DecisionConstructs.exe
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_008_DecisionConstructs\bin\Debug\C03_008_DecisionConstructs.pdb
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_008_DecisionConstructs\obj\Debug\C03_008_DecisionConstructs.csprojResolveAssemblyReference.cache
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_008_DecisionConstructs\obj\Debug\C03_008_DecisionConstructs.csproj.CoreCompileInputs.cache
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_008_DecisionConstructs\obj\Debug\C03_008_DecisionConstructs.exe
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C03_008_DecisionConstructs\obj\Debug\C03_008_DecisionConstructs.pdb

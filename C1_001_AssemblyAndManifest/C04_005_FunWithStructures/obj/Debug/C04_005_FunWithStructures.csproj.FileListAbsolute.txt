@@ -1,10 +1,3 @@
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_005_FunWithStructures\bin\Debug\C04_005_FunWithStructures.exe.config
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_005_FunWithStructures\bin\Debug\C04_005_FunWithStructures.exe
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_005_FunWithStructures\bin\Debug\C04_005_FunWithStructures.pdb
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_005_FunWithStructures\obj\Debug\C04_005_FunWithStructures.csprojResolveAssemblyReference.cache
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_005_FunWithStructures\obj\Debug\C04_005_FunWithStructures.csproj.CoreCompileInputs.cache
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_005_FunWithStructures\obj\Debug\C04_005_FunWithStructures.exe
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_005_FunWithStructures\obj\Debug\C04_005_FunWithStructures.pdb
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_005_FunWithStructures\bin\Debug\C04_005_FunWithStructures.exe.config
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_005_FunWithStructures\bin\Debug\C04_005_FunWithStructures.exe
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_005_FunWithStructures\bin\Debug\C04_005_FunWithStructures.pdb

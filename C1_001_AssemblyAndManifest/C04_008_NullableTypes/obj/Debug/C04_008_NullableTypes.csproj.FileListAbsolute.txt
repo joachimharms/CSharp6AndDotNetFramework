@@ -1,10 +1,3 @@
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_008_NullableTypes\obj\Debug\C04_008_NullableTypes.csprojResolveAssemblyReference.cache
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_008_NullableTypes\obj\Debug\C04_008_NullableTypes.csproj.CoreCompileInputs.cache
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_008_NullableTypes\bin\Debug\C04_008_NullableTypes.exe.config
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_008_NullableTypes\bin\Debug\C04_008_NullableTypes.exe
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_008_NullableTypes\bin\Debug\C04_008_NullableTypes.pdb
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_008_NullableTypes\obj\Debug\C04_008_NullableTypes.exe
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_008_NullableTypes\obj\Debug\C04_008_NullableTypes.pdb
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_008_NullableTypes\bin\Debug\C04_008_NullableTypes.exe.config
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_008_NullableTypes\bin\Debug\C04_008_NullableTypes.exe
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C04_008_NullableTypes\bin\Debug\C04_008_NullableTypes.pdb
