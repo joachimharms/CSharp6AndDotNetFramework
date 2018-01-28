@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C01_001_AssemblyAndManifest", "C1_001_AssemblyAndManifest\C01_001_AssemblyAndManifest.csproj", "{9A8D09F8-394B-4800-8703-7F173C73DDBA}"
 EndProject
@@ -60,6 +60,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C05_009_PartialClasses", "C05_009_PartialClasses\C05_009_PartialClasses.csproj", "{84E03912-6A2F-424E-8EE4-7F6985BABDC4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C06_001_BasicInheritance", "C06_001_BasicInheritance\C06_001_BasicInheritance.csproj", "{D655F8B0-6E55-4B56-B396-50F1508BCFBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C06_002_Employees", "C006_002_Employees\C06_002_Employees.csproj", "{D52F1EB3-7254-49F6-9C72-F014B6E3B73A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{D655F8B0-6E55-4B56-B396-50F1508BCFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D655F8B0-6E55-4B56-B396-50F1508BCFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D655F8B0-6E55-4B56-B396-50F1508BCFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52F1EB3-7254-49F6-9C72-F014B6E3B73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52F1EB3-7254-49F6-9C72-F014B6E3B73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52F1EB3-7254-49F6-9C72-F014B6E3B73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52F1EB3-7254-49F6-9C72-F014B6E3B73A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
