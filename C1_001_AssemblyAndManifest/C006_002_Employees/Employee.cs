@@ -14,6 +14,8 @@ namespace C006_002_Employees
 
         private float currPay;
 
+        private string empSSN;
+
         // New field and property.
         private int empAge;
         public int Age
@@ -65,6 +67,14 @@ namespace C006_002_Employees
             //empID = id;
             //empAge = age;
             //currPay = pay;
+        }
+
+
+        // Add to the Employee class.
+        public Employee(string name, int age, int id, float pay, string ssn)
+            :this(name, age, id, pay)
+        {
+            empSSN = ssn;
         }
         #endregion
 
