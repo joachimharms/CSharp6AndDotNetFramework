@@ -8,14 +8,3 @@ E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_A
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C1_001_AssemblyAndManifest\obj\Debug\netcoreapp2.0\C01_001_AssemblyAndManifest.AssemblyInfo.cs
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C1_001_AssemblyAndManifest\obj\Debug\netcoreapp2.0\C01_001_AssemblyAndManifest.dll
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C1_001_AssemblyAndManifest\obj\Debug\netcoreapp2.0\C01_001_AssemblyAndManifest.pdb
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C1_001_AssemblyAndManifest\bin\Debug\netcoreapp2.0\C01_001_AssemblyAndManifest.deps.json
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C1_001_AssemblyAndManifest\bin\Debug\netcoreapp2.0\C01_001_AssemblyAndManifest.runtimeconfig.json
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C1_001_AssemblyAndManifest\bin\Debug\netcoreapp2.0\C01_001_AssemblyAndManifest.runtimeconfig.dev.json
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C1_001_AssemblyAndManifest\bin\Debug\netcoreapp2.0\C01_001_AssemblyAndManifest.dll
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C1_001_AssemblyAndManifest\bin\Debug\netcoreapp2.0\C01_001_AssemblyAndManifest.pdb
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C1_001_AssemblyAndManifest\obj\Debug\netcoreapp2.0\C01_001_AssemblyAndManifest.csprojResolveAssemblyReference.cache
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C1_001_AssemblyAndManifest\obj\Debug\netcoreapp2.0\C01_001_AssemblyAndManifest.csproj.CoreCompileInputs.cache
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C1_001_AssemblyAndManifest\obj\Debug\netcoreapp2.0\C01_001_AssemblyAndManifest.AssemblyInfoInputs.cache
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C1_001_AssemblyAndManifest\obj\Debug\netcoreapp2.0\C01_001_AssemblyAndManifest.AssemblyInfo.cs
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C1_001_AssemblyAndManifest\obj\Debug\netcoreapp2.0\C01_001_AssemblyAndManifest.dll
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C1_001_AssemblyAndManifest\obj\Debug\netcoreapp2.0\C01_001_AssemblyAndManifest.pdb
