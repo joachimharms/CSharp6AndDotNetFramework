@@ -15,5 +15,9 @@ namespace C006_002_Employees
         {
             StockOptions = numbOfOpts;
         }
+
+        // Add back the default ctor
+        // in the Manager class as well.
+        public Manager() { }
     }
 }
