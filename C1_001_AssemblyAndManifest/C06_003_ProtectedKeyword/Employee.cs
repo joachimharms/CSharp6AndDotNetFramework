@@ -23,6 +23,10 @@ namespace C006_003_ProtectedKeyword
         protected int empAge;
         protected string empSSN;
 
+        // Employees now have benefits.
+        // Contain a BenefitPackage object.
+        protected BenefitPackage empBenefits = new BenefitPackage(); // starke Aggregation - Komposition
+
         // New field and property.
         public int Age
         {
