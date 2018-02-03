@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C06_002_Employees", "C006_0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C06_003_ProtectedKeyword", "C06_003_ProtectedKeyword\C06_003_ProtectedKeyword.csproj", "{EDE3C7E5-C68E-4729-A9C2-7D81F82F5DBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C06_004_NestedTypes", "C06_004_NestedTypes\C06_004_NestedTypes.csproj", "{07FCCC80-944E-4A07-A8D2-F816E21EA0A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{EDE3C7E5-C68E-4729-A9C2-7D81F82F5DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDE3C7E5-C68E-4729-A9C2-7D81F82F5DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDE3C7E5-C68E-4729-A9C2-7D81F82F5DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07FCCC80-944E-4A07-A8D2-F816E21EA0A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FCCC80-944E-4A07-A8D2-F816E21EA0A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FCCC80-944E-4A07-A8D2-F816E21EA0A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FCCC80-944E-4A07-A8D2-F816E21EA0A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

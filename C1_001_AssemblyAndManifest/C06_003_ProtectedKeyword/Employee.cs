@@ -27,6 +27,23 @@ namespace C006_003_ProtectedKeyword
         // Contain a BenefitPackage object.
         protected BenefitPackage empBenefits = new BenefitPackage(); // starke Aggregation - Komposition
 
+        // Expose certain benefit behaviors of object.
+        // Dies ist eine Delegation
+        public double GetBenefitCost()
+        {
+            return empBenefits.ComputePayDeduction();
+        }
+
+        // Expose object through a custom property.
+        public BenefitPackage Benefits
+        {
+            get { return empBenefits; }
+            set { empBenefits = value; }
+        }
+
+
+
+
         // New field and property.
         public int Age
         {

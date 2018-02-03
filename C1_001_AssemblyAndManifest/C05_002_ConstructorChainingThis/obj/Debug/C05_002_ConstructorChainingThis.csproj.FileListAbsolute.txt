@@ -5,3 +5,9 @@ E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_A
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_002_ConstructorChainingThis\bin\Debug\C05_002_ConstructorChainingThis.pdb
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_002_ConstructorChainingThis\obj\Debug\C05_002_ConstructorChainingThis.exe
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_002_ConstructorChainingThis\obj\Debug\C05_002_ConstructorChainingThis.pdb
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_002_ConstructorChainingThis\bin\Debug\C05_002_ConstructorChainingThis.exe.config
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_002_ConstructorChainingThis\bin\Debug\C05_002_ConstructorChainingThis.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_002_ConstructorChainingThis\bin\Debug\C05_002_ConstructorChainingThis.pdb
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_002_ConstructorChainingThis\obj\Debug\C05_002_ConstructorChainingThis.csproj.CoreCompileInputs.cache
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_002_ConstructorChainingThis\obj\Debug\C05_002_ConstructorChainingThis.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_002_ConstructorChainingThis\obj\Debug\C05_002_ConstructorChainingThis.pdb
