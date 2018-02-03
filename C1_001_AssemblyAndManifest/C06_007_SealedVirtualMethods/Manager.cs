@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace C06_006_VirtualMethods
+namespace C06_007_SealedVirtualMethods
 {
     class Manager : Employee
     {
