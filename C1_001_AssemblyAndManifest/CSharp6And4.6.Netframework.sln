@@ -73,6 +73,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C06_006_VirtualMethods", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C06_007_SealedVirtualMethods", "C06_007_SealedVirtualMethods\C06_007_SealedVirtualMethods.csproj", "{2B7EFD7E-2696-4AD5-B067-A98B878193AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C06_008_Shapes", "C06_008_Shapes\C06_008_Shapes.csproj", "{CA8DDAC3-B759-4E18-A4BA-168F570EF362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C06_009_AbstractMethods", "C06_009_AbstractMethods\C06_009_AbstractMethods.csproj", "{17CA8661-9945-4008-9C41-7D1E3F523B21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C06_010_MemberShadowing", "C06_010_MemberShadowing\C06_010_MemberShadowing.csproj", "{E500CFC8-DFD2-4D0D-B59D-9358F6786B81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +225,18 @@ Global
 		{2B7EFD7E-2696-4AD5-B067-A98B878193AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B7EFD7E-2696-4AD5-B067-A98B878193AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B7EFD7E-2696-4AD5-B067-A98B878193AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA8DDAC3-B759-4E18-A4BA-168F570EF362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8DDAC3-B759-4E18-A4BA-168F570EF362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8DDAC3-B759-4E18-A4BA-168F570EF362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8DDAC3-B759-4E18-A4BA-168F570EF362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CA8661-9945-4008-9C41-7D1E3F523B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CA8661-9945-4008-9C41-7D1E3F523B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CA8661-9945-4008-9C41-7D1E3F523B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CA8661-9945-4008-9C41-7D1E3F523B21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E500CFC8-DFD2-4D0D-B59D-9358F6786B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E500CFC8-DFD2-4D0D-B59D-9358F6786B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E500CFC8-DFD2-4D0D-B59D-9358F6786B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E500CFC8-DFD2-4D0D-B59D-9358F6786B81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
