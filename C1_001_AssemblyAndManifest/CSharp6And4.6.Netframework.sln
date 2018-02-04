@@ -81,6 +81,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C06_010_MemberShadowing", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C06_011_CastingClasses", "C06_011_CastingClasses\C06_011_CastingClasses.csproj", "{B7FEC16F-71FE-4E81-B4F7-682B9A2E10C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C06_012_AsKeyword", "C06_012_AsKeyword\C06_012_AsKeyword.csproj", "{7C9DCA6B-CED7-467D-BBD1-D3EC0D145CC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C06_013_IsKeyword", "C06_013_IsKeyword\C06_013_IsKeyword.csproj", "{9E3168AC-057C-4109-A540-1F55CF06A018}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +247,14 @@ Global
 		{B7FEC16F-71FE-4E81-B4F7-682B9A2E10C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7FEC16F-71FE-4E81-B4F7-682B9A2E10C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7FEC16F-71FE-4E81-B4F7-682B9A2E10C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C9DCA6B-CED7-467D-BBD1-D3EC0D145CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9DCA6B-CED7-467D-BBD1-D3EC0D145CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9DCA6B-CED7-467D-BBD1-D3EC0D145CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9DCA6B-CED7-467D-BBD1-D3EC0D145CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E3168AC-057C-4109-A540-1F55CF06A018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3168AC-057C-4109-A540-1F55CF06A018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3168AC-057C-4109-A540-1F55CF06A018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3168AC-057C-4109-A540-1F55CF06A018}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
