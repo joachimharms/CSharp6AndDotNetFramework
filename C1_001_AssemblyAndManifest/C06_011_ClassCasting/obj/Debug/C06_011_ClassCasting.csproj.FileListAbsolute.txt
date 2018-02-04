@@ -1,0 +1,2 @@
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_011_ClassCasting\obj\Debug\C06_011_ClassCasting.csprojResolveAssemblyReference.cache
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_011_ClassCasting\obj\Debug\C06_011_ClassCasting.csproj.CoreCompileInputs.cache
