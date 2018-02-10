@@ -10,21 +10,53 @@ namespace C06_015_ObjectOverrides
     {
         static void Main(string[] args)
         {
+            //// Der auskommentierte Code testet die default Implimationen der System.Object Member, darum habe ich den auskommentiert, da ich jetzt die überschriebene Methoden testen möchte.
+            //Console.WriteLine("***** Fun with System.Object *****\n");
+            //Person p1 = new Person();
+            //// Use inherited members of System.Object.
+            //Console.WriteLine("ToString: {0}", p1.ToString());
+            //Console.WriteLine("Hash code: {0}", p1.GetHashCode());
+            //Console.WriteLine("Type: {0}", p1.GetType());
+            //// Make some other references to p1.
+            //Person p2 = p1;
+            //object o = p2;
+            //// Are the references pointing to the same object in memory?
+            //if (o.Equals(p1) && p2.Equals(o))
+            //{
+            //    Console.WriteLine("Same instance!");
+            //}
+            //Console.ReadLine();
+
+            // Ab hier werden die überschriebenen Methoden von System.Object getestet:
             Console.WriteLine("***** Fun with System.Object *****\n");
-            Person p1 = new Person();
-            // Use inherited members of System.Object.
-            Console.WriteLine("ToString: {0}", p1.ToString());
-            Console.WriteLine("Hash code: {0}", p1.GetHashCode());
-            Console.WriteLine("Type: {0}", p1.GetType());
-            // Make some other references to p1.
-            Person p2 = p1;
-            object o = p2;
-            // Are the references pointing to the same object in memory?
-            if (o.Equals(p1) && p2.Equals(o))
-            {
-                Console.WriteLine("Same instance!");
-            }
+            // NOTE: We want these to be identical to test
+            // the Equals() and GetHashCode() methods.
+            Person p1 = new Person("Homer", "Simpson", 50);
+            Person p2 = new Person("Homer", "Simpson", 50);
+            // Get stringified version of objects.
+            Console.WriteLine("p1.ToString() = {0}", p1.ToString());
+            Console.WriteLine("p2.ToString() = {0}", p2.ToString());
+            // Test overridden Equals().
+            Console.WriteLine("p1 = p2?: {0}", p1.Equals(p2));
+            // Test hash codes.
+            Console.WriteLine("Same hash codes?: {0}", p1.GetHashCode() == p2.GetHashCode());
+            Console.WriteLine();
+
+            // Change age of p2 and test again.
+            p2.Age = 45;
+            Console.WriteLine("p1.ToString() = {0}", p1.ToString());
+            Console.WriteLine("p2.ToString() = {0}", p2.ToString());
+            Console.WriteLine("p1 = p2?: {0}", p1.Equals(p2));
+            Console.WriteLine("Same hash codes?: {0}", p1.GetHashCode() == p2.GetHashCode());
             Console.ReadLine();
+
+            // Static members of System.Object.
+            Person p3 = new Person("Sally", "Jones", 4);
+            Person p4 = new Person("Sally", "Jones", 4);
+            Console.WriteLine("P3 and P4 have same state: {0}", object.Equals(p3, p4));
+            Console.WriteLine("P3 and P4 are pointing to same object: {0}",
+            object.ReferenceEquals(p3, p4));
+
         }
     }
 }

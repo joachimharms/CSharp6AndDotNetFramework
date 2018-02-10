@@ -5,3 +5,10 @@ E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_A
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_015_ObjectOverrides\bin\Debug\C06_015_ObjectOverrides.pdb
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_015_ObjectOverrides\obj\Debug\C06_015_ObjectOverrides.exe
 E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_015_ObjectOverrides\obj\Debug\C06_015_ObjectOverrides.pdb
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_015_ObjectOverrides\bin\Debug\C06_015_ObjectOverrides.exe.config
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_015_ObjectOverrides\bin\Debug\C06_015_ObjectOverrides.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_015_ObjectOverrides\bin\Debug\C06_015_ObjectOverrides.pdb
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_015_ObjectOverrides\obj\Debug\C06_015_ObjectOverrides.csprojResolveAssemblyReference.cache
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_015_ObjectOverrides\obj\Debug\C06_015_ObjectOverrides.csproj.CoreCompileInputs.cache
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_015_ObjectOverrides\obj\Debug\C06_015_ObjectOverrides.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_015_ObjectOverrides\obj\Debug\C06_015_ObjectOverrides.pdb

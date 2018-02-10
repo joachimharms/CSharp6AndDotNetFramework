@@ -13,5 +13,54 @@ class Person
     }
 
     public Person() { }
+
+    public override string ToString()
+    {
+        string myState;
+        myState = string.Format("[First Name: {0}; Last Name: {1}; Age: {2}]",
+        FirstName, LastName, Age);
+        return myState;
+    }
+
+    //public override bool Equals(object obj)
+    //{
+    //    if (obj is Person)
+    //    {
+    //        Person temp;
+    //        temp = (Person)obj;
+    //        if (temp.FirstName == this.FirstName && temp.LastName == this.LastName && temp.Age == this.Age)
+    //        {
+    //            return true;
+    //        }
+    //        else
+    //        {
+    //            return false;
+    //        }
+    //    }
+    //    return false;
+    //}
+
+    public override bool Equals(object obj)
+    {
+        // No need to cast "obj" to a Person anymore,
+        // as everything has a ToString() method.
+        return obj.ToString() == this.ToString();
+    }
+
+    //// Assume we have an SSN property as so.
+    //public string SSN { get; set; } = "";
+    //// Return a hash code based on a point of unique string data.
+    //public override int GetHashCode()
+    //{
+    //    return SSN.GetHashCode();
+    //}
+
+    //    If you cannot find a single point of unique string data but you have overridden ToString(),
+    //call GetHashCode() on your own string representation:
+    // Return a hash code based on the person's ToString() value.
+    public override int GetHashCode()
+    {
+        return this.ToString().GetHashCode();
+    }
 }
 
