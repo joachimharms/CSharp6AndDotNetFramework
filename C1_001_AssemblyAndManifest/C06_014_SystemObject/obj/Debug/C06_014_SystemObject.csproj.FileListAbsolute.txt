@@ -1,0 +1,7 @@
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_014_SystemObject\bin\Debug\C06_014_SystemObject.exe.config
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_014_SystemObject\bin\Debug\C06_014_SystemObject.exe
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_014_SystemObject\bin\Debug\C06_014_SystemObject.pdb
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_014_SystemObject\obj\Debug\C06_014_SystemObject.csprojResolveAssemblyReference.cache
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_014_SystemObject\obj\Debug\C06_014_SystemObject.csproj.CoreCompileInputs.cache
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_014_SystemObject\obj\Debug\C06_014_SystemObject.exe
+E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_014_SystemObject\obj\Debug\C06_014_SystemObject.pdb
