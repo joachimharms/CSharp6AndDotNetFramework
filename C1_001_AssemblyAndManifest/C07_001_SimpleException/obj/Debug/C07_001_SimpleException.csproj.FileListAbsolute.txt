@@ -1,0 +1,7 @@
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_001_SimpleException\bin\Debug\C07_001_SimpleException.exe.config
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_001_SimpleException\bin\Debug\C07_001_SimpleException.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_001_SimpleException\bin\Debug\C07_001_SimpleException.pdb
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_001_SimpleException\obj\Debug\C07_001_SimpleException.csprojResolveAssemblyReference.cache
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_001_SimpleException\obj\Debug\C07_001_SimpleException.csproj.CoreCompileInputs.cache
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_001_SimpleException\obj\Debug\C07_001_SimpleException.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_001_SimpleException\obj\Debug\C07_001_SimpleException.pdb

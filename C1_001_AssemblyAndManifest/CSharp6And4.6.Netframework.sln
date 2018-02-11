@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2027
+VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C01_001_AssemblyAndManifest", "C1_001_AssemblyAndManifest\C01_001_AssemblyAndManifest.csproj", "{9A8D09F8-394B-4800-8703-7F173C73DDBA}"
 EndProject
@@ -88,6 +88,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C06_014_SystemObject", "C06_014_SystemObject\C06_014_SystemObject.csproj", "{53CE6C1B-BC1C-43F5-BE5F-67B4074569D1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C06_015_ObjectOverrides", "C06_015_ObjectOverrides\C06_015_ObjectOverrides.csproj", "{5B49163E-6862-492E-8C80-1DED409A6A1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C07_001_SimpleException", "C07_001_SimpleException\C07_001_SimpleException.csproj", "{8572593F-3A08-4FA0-9928-90DE3837C778}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -267,6 +269,10 @@ Global
 		{5B49163E-6862-492E-8C80-1DED409A6A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B49163E-6862-492E-8C80-1DED409A6A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B49163E-6862-492E-8C80-1DED409A6A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8572593F-3A08-4FA0-9928-90DE3837C778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8572593F-3A08-4FA0-9928-90DE3837C778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8572593F-3A08-4FA0-9928-90DE3837C778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8572593F-3A08-4FA0-9928-90DE3837C778}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
