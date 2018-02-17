@@ -8,6 +8,7 @@ E:\MeineDateien_HP\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_A
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_001_SimpleClassExample\bin\Debug\C05_001_SimpleClassExample.exe.config
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_001_SimpleClassExample\bin\Debug\C05_001_SimpleClassExample.exe
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_001_SimpleClassExample\bin\Debug\C05_001_SimpleClassExample.pdb
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_001_SimpleClassExample\obj\Debug\C05_001_SimpleClassExample.csprojResolveAssemblyReference.cache
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_001_SimpleClassExample\obj\Debug\C05_001_SimpleClassExample.csproj.CoreCompileInputs.cache
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_001_SimpleClassExample\obj\Debug\C05_001_SimpleClassExample.exe
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_001_SimpleClassExample\obj\Debug\C05_001_SimpleClassExample.pdb

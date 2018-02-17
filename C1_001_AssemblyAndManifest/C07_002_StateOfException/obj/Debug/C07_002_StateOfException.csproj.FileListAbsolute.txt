@@ -1,0 +1,7 @@
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_002_StateOfException\bin\Debug\C07_002_StateOfException.exe.config
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_002_StateOfException\bin\Debug\C07_002_StateOfException.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_002_StateOfException\bin\Debug\C07_002_StateOfException.pdb
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_002_StateOfException\obj\Debug\C07_002_StateOfException.csproj.CoreCompileInputs.cache
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_002_StateOfException\obj\Debug\C07_002_StateOfException.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_002_StateOfException\obj\Debug\C07_002_StateOfException.pdb
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_002_StateOfException\obj\Debug\C07_002_StateOfException.csprojResolveAssemblyReference.cache

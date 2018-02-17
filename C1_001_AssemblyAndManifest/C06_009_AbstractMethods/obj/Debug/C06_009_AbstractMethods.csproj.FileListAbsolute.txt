@@ -1,7 +1,6 @@
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_009_AbstractMethods\bin\Debug\C06_009_AbstractMethods.exe.config
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_009_AbstractMethods\bin\Debug\C06_009_AbstractMethods.exe
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_009_AbstractMethods\bin\Debug\C06_009_AbstractMethods.pdb
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_009_AbstractMethods\obj\Debug\C06_009_AbstractMethods.csprojResolveAssemblyReference.cache
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_009_AbstractMethods\obj\Debug\C06_009_AbstractMethods.csproj.CoreCompileInputs.cache
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_009_AbstractMethods\obj\Debug\C06_009_AbstractMethods.exe
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_009_AbstractMethods\obj\Debug\C06_009_AbstractMethods.pdb

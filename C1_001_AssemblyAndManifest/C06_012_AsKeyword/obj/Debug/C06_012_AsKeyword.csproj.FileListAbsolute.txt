@@ -1,7 +1,6 @@
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_012_AsKeyword\bin\Debug\C06_012_AsKeyword.exe.config
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_012_AsKeyword\bin\Debug\C06_012_AsKeyword.exe
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_012_AsKeyword\bin\Debug\C06_012_AsKeyword.pdb
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_012_AsKeyword\obj\Debug\C06_012_AsKeyword.csprojResolveAssemblyReference.cache
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_012_AsKeyword\obj\Debug\C06_012_AsKeyword.csproj.CoreCompileInputs.cache
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_012_AsKeyword\obj\Debug\C06_012_AsKeyword.exe
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_012_AsKeyword\obj\Debug\C06_012_AsKeyword.pdb
