@@ -1,0 +1,7 @@
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_006_ProcessMultipleExceptions\bin\Debug\C07_006_ProcessMultipleExceptions.exe.config
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_006_ProcessMultipleExceptions\bin\Debug\C07_006_ProcessMultipleExceptions.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_006_ProcessMultipleExceptions\bin\Debug\C07_006_ProcessMultipleExceptions.pdb
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_006_ProcessMultipleExceptions\obj\Debug\C07_006_ProcessMultipleExceptions.csproj.CoreCompileInputs.cache
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_006_ProcessMultipleExceptions\obj\Debug\C07_006_ProcessMultipleExceptions.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_006_ProcessMultipleExceptions\obj\Debug\C07_006_ProcessMultipleExceptions.pdb
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_006_ProcessMultipleExceptions\obj\Debug\C07_006_ProcessMultipleExceptions.csprojResolveAssemblyReference.cache

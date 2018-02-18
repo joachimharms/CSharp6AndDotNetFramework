@@ -4,3 +4,4 @@ E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManife
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_009_PartialClasses\obj\Debug\C05_009_PartialClasses.csproj.CoreCompileInputs.cache
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_009_PartialClasses\obj\Debug\C05_009_PartialClasses.exe
 E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_009_PartialClasses\obj\Debug\C05_009_PartialClasses.pdb
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_009_PartialClasses\obj\Debug\C05_009_PartialClasses.csprojResolveAssemblyReference.cache
