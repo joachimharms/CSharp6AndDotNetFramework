@@ -1,0 +1,6 @@
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_004_CustomException2\bin\Debug\C07_004_CustomException2.exe.config
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_004_CustomException2\bin\Debug\C07_004_CustomException2.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_004_CustomException2\bin\Debug\C07_004_CustomException2.pdb
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_004_CustomException2\obj\Debug\C07_004_CustomException2.csproj.CoreCompileInputs.cache
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_004_CustomException2\obj\Debug\C07_004_CustomException2.exe
+E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C07_004_CustomException2\obj\Debug\C07_004_CustomException2.pdb

@@ -95,6 +95,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C07_002_StateOfException", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C07_003_CustomException", "C07_003_CustomException\C07_003_CustomException.csproj", "{AD536444-2D2D-4DAB-9657-30CC33A309C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C07_004_CustomException2", "C07_004_CustomException2\C07_004_CustomException2.csproj", "{AA43573A-B1C0-4B3E-80B2-1B8040B9B7D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C07_005_CustomExceptionFinalImplementation", "C07_005_CustomExceptionFinalImplementation\C07_005_CustomExceptionFinalImplementation.csproj", "{3B3E3B90-65F7-449B-AA37-F3003AB09FE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -285,6 +289,14 @@ Global
 		{AD536444-2D2D-4DAB-9657-30CC33A309C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD536444-2D2D-4DAB-9657-30CC33A309C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD536444-2D2D-4DAB-9657-30CC33A309C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA43573A-B1C0-4B3E-80B2-1B8040B9B7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA43573A-B1C0-4B3E-80B2-1B8040B9B7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA43573A-B1C0-4B3E-80B2-1B8040B9B7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA43573A-B1C0-4B3E-80B2-1B8040B9B7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3E3B90-65F7-449B-AA37-F3003AB09FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3E3B90-65F7-449B-AA37-F3003AB09FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3E3B90-65F7-449B-AA37-F3003AB09FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3E3B90-65F7-449B-AA37-F3003AB09FE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
