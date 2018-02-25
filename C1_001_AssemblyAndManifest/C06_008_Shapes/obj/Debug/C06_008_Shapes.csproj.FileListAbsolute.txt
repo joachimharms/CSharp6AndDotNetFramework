@@ -1,6 +1,0 @@
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_008_Shapes\bin\Debug\C06_008_Shapes.exe.config
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_008_Shapes\bin\Debug\C06_008_Shapes.exe
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_008_Shapes\bin\Debug\C06_008_Shapes.pdb
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_008_Shapes\obj\Debug\C06_008_Shapes.csproj.CoreCompileInputs.cache
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_008_Shapes\obj\Debug\C06_008_Shapes.exe
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_008_Shapes\obj\Debug\C06_008_Shapes.pdb

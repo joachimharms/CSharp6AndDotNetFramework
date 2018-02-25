@@ -1,6 +1,0 @@
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_008_ConstData\bin\Debug\C05_008_ConstData.exe.config
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_008_ConstData\bin\Debug\C05_008_ConstData.exe
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_008_ConstData\bin\Debug\C05_008_ConstData.pdb
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_008_ConstData\obj\Debug\C05_008_ConstData.csproj.CoreCompileInputs.cache
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_008_ConstData\obj\Debug\C05_008_ConstData.exe
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C05_008_ConstData\obj\Debug\C05_008_ConstData.pdb

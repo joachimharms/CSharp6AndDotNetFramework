@@ -1,6 +1,0 @@
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_001_BasicInheritance\bin\Debug\C06_001_BasicInheritance.exe.config
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_001_BasicInheritance\bin\Debug\C06_001_BasicInheritance.exe
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_001_BasicInheritance\bin\Debug\C06_001_BasicInheritance.pdb
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_001_BasicInheritance\obj\Debug\C06_001_BasicInheritance.csproj.CoreCompileInputs.cache
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_001_BasicInheritance\obj\Debug\C06_001_BasicInheritance.exe
-E:\2.Dev\2.PrivateProjects\C#\CSharp6AndDotNetFramework\C1_001_AssemblyAndManifest\C06_001_BasicInheritance\obj\Debug\C06_001_BasicInheritance.pdb
