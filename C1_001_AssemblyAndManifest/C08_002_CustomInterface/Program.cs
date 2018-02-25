@@ -10,6 +10,8 @@ namespace C08_002_CustomInterface
     {
         static void Main(string[] args)
         {
+            //// Ack! Illegal to allocate interface types.
+            //IPointy p = new IPointy(); // Compiler error!
         }
     }
 }
