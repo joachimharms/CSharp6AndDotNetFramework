@@ -109,6 +109,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C07_009_ExceptionFilters", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C07_010_DebugUnhandledExceptionsVS", "C07_010_DebugUnhandledExceptionsVS\C07_010_DebugUnhandledExceptionsVS.csproj", "{5604BB46-A38F-436B-AE95-1B014B1885E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C08_001_ICloneableExample", "C08_001_ICloneableExample\C08_001_ICloneableExample.csproj", "{B3192E05-EE06-4D43-98A3-E12BAEC2865C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C08_002_CustomInterface", "C08_002_CustomInterface\C08_002_CustomInterface.csproj", "{C9CDCAFB-6389-4F62-AAC6-D0CE1FAAC7FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -327,6 +331,14 @@ Global
 		{5604BB46-A38F-436B-AE95-1B014B1885E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5604BB46-A38F-436B-AE95-1B014B1885E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5604BB46-A38F-436B-AE95-1B014B1885E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3192E05-EE06-4D43-98A3-E12BAEC2865C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3192E05-EE06-4D43-98A3-E12BAEC2865C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3192E05-EE06-4D43-98A3-E12BAEC2865C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3192E05-EE06-4D43-98A3-E12BAEC2865C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9CDCAFB-6389-4F62-AAC6-D0CE1FAAC7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9CDCAFB-6389-4F62-AAC6-D0CE1FAAC7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9CDCAFB-6389-4F62-AAC6-D0CE1FAAC7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9CDCAFB-6389-4F62-AAC6-D0CE1FAAC7FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
