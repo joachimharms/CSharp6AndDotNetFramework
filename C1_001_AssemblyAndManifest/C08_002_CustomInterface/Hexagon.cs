@@ -6,15 +6,30 @@ using System.Threading.Tasks;
 
 namespace C08_002_CustomInterface
 {
-    class Hexagon : Shape
+    // Hexagon now implements IPointy.
+    class Hexagon : Shape, IPointy
     {
         public Hexagon() { }
 
         public Hexagon(string name) : base(name) { }
 
+        // IPointy implementation.
+        public byte Points
+        {
+            get
+            {
+                return 6;
+            }
+        } 
+
         public override void Draw()
         {
-            Console.WriteLine($"Drawing the {base.PetName} Hexagon");
+            Console.WriteLine($"Drawing {base.PetName} the Hexagon");
+        }
+
+        public byte GetNumberOfPoints()
+        {
+            throw new NotImplementedException();
         }
     }
 }
