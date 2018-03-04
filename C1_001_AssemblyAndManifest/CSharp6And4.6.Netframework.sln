@@ -123,6 +123,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C08_006_ArrayOfInterfaceTyp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C08_007_PointyTestClass", "C08_007_PointyTestClass\C08_007_PointyTestClass.csproj", "{1ED45115-2B7A-4380-8AD5-3B204E2F5BB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C08_008_InterfaceNameClash", "C08_008_InterfaceNameClash\C08_008_InterfaceNameClash.csproj", "{708B9C86-7492-4F0E-BA6C-E5730812C231}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -369,6 +371,10 @@ Global
 		{1ED45115-2B7A-4380-8AD5-3B204E2F5BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ED45115-2B7A-4380-8AD5-3B204E2F5BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ED45115-2B7A-4380-8AD5-3B204E2F5BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{708B9C86-7492-4F0E-BA6C-E5730812C231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708B9C86-7492-4F0E-BA6C-E5730812C231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708B9C86-7492-4F0E-BA6C-E5730812C231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708B9C86-7492-4F0E-BA6C-E5730812C231}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
